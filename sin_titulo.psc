@@ -1,4 +1,5 @@
 Algoritmo sin_titulo
+	Escribir  "Cambiosssssss"
 	Escribir "Ingrese su edad"
 	Leer edad
 	Si edad >= 25 Entonces
